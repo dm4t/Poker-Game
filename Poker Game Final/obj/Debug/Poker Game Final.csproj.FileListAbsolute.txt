@@ -1,0 +1,9 @@
+C:\Users\m-vas\source\repos\Poker Game Final\Poker Game Final\bin\Debug\Poker Game Final.exe.config
+C:\Users\m-vas\source\repos\Poker Game Final\Poker Game Final\bin\Debug\Poker Game Final.exe
+C:\Users\m-vas\source\repos\Poker Game Final\Poker Game Final\bin\Debug\Poker Game Final.pdb
+C:\Users\m-vas\source\repos\Poker Game Final\Poker Game Final\obj\Debug\Poker Game Final.csprojAssemblyReference.cache
+C:\Users\m-vas\source\repos\Poker Game Final\Poker Game Final\obj\Debug\Poker_Game_Final.Form1.resources
+C:\Users\m-vas\source\repos\Poker Game Final\Poker Game Final\obj\Debug\Poker_Game_Final.Properties.Resources.resources
+C:\Users\m-vas\source\repos\Poker Game Final\Poker Game Final\obj\Debug\Poker Game Final.csproj.GenerateResource.cache
+C:\Users\m-vas\source\repos\Poker Game Final\Poker Game Final\obj\Debug\Poker Game Final.exe
+C:\Users\m-vas\source\repos\Poker Game Final\Poker Game Final\obj\Debug\Poker Game Final.pdb
